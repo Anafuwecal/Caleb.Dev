@@ -87,7 +87,4 @@ Static export (if desired):
 
 If you want to adapt this template, please fork the repo and open a pull request. Keep commits small and focused.
 
-## License & Credits
-
-This project includes assets and design by Creative Tim. See the original template and licensing information at https://github.com/themewagon/Next.js-Tailwind-CSS-Portfolio-Template and Creative Tim's license URL in `package.json`.
 
