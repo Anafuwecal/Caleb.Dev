@@ -1,0 +1,14 @@
+{
+  "cssImports": {
+    "C:\\Users\\Nexora\\OneDrive\\Desktop\\Cal.Dev\\src\\app\\layout.tsx": [
+      "C:\\Users\\Nexora\\OneDrive\\Desktop\\Cal.Dev\\node_modules\\next\\font\\google\\target.css?{\"path\":\"src\\\\app\\\\layout.tsx\",\"import\":\"Roboto\",\"arguments\":[{\"subsets\":[\"latin\"],\"weight\":[\"300\",\"400\",\"500\",\"700\",\"900\"],\"display\":\"swap\"}],\"variableName\":\"roboto\"}",
+      "C:\\Users\\Nexora\\OneDrive\\Desktop\\Cal.Dev\\src\\app\\globals.css"
+    ]
+  },
+  "cssModules": {
+    "C:\\Users\\Nexora\\OneDrive\\Desktop\\Cal.Dev\\src\\app\\page": [
+      "C:\\Users\\Nexora\\OneDrive\\Desktop\\Cal.Dev\\src\\app\\globals.css",
+      "C:\\Users\\Nexora\\OneDrive\\Desktop\\Cal.Dev\\node_modules\\next\\font\\google\\target.css?{\"path\":\"src\\\\app\\\\layout.tsx\",\"import\":\"Roboto\",\"arguments\":[{\"subsets\":[\"latin\"],\"weight\":[\"300\",\"400\",\"500\",\"700\",\"900\"],\"display\":\"swap\"}],\"variableName\":\"roboto\"}"
+    ]
+  }
+}
