@@ -84,7 +84,7 @@ export function ContactForm() {
               </div>
             </div>
             <div className="w-full mt-8 md:mt-0 md:px-10 col-span-4 h-full p-5">
-              <form action="anafuwecalebifeanyi@gmail.com" method="post" enctype="text/plain">
+              <form action="anafuwecalebifeanyi@gmail.com" method="post" encType="text/plain">
                 <div className="mb-8 grid gap-4 lg:grid-cols-2">
                   {/* @ts-ignore */}
                   <Input
